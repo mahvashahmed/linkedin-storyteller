@@ -19,6 +19,7 @@ Turn raw notes (a debugging story, a project milestone, a product decision) into
 * **Tone:** Honest, peer-to-peer, technical. Sounds like a builder talking to another builder.
 * **Layout:** Short paragraphs, 1 to 2 sentences each, with blank lines between them for mobile reading.
 * **Hook:** The first 2 lines must create curiosity (a surprising result, a odd bug, an open question about what happened). Do not give away the ending in the hook.
+* **Match the examples, if there are any.** If this skill folder contains an `examples/` directory, write in the style of those posts: their vocabulary, their sentence rhythm and their level of detail. Where an example uses a phrase the Avoid list bans, the example wins.
 * **No hashtags. No em dashes.** Use colons and semicolons rarely.
 
 ## Avoid

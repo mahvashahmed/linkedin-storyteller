@@ -12,14 +12,15 @@ Product managers, builders and job seekers who share their work on LinkedIn to n
 
 - Writes a post using Freytag's Pyramid (hook, rising action, climax, falling action, resolution)
 - Adds scene details using PAST (Place, Action, Speech, Thoughts)
-- Never invents metrics, quotes or error messages. Missing details show up as `[BRACKETED PLACEHOLDERS]`
+- Matches your writing style, using the sample posts in `examples/`
+- Never invents metrics, quotes or error messages. Missing details show up as `[BRACKETED PLACEHOLDER]`
 - Avoids AI-sounding words, hashtags and em dashes
 - Gives you a short audit with the word count, what is missing, and 2 to 3 questions to fill the gaps
 
 ## How to use
 
 1. Download or clone this repo.
-2. Add the skill to Claude (Settings > Capabilities > Skills), or place the folder in your skills directory if you use Claude Code.
+2. Zip the `linkedin-storyteller` folder so that `SKILL.md` sits at the top level of the zip, then upload it under Settings > Capabilities > Skills. If you use Claude Code, drop the folder into `~/.claude/skills/`.
 3. Paste your raw notes and ask Claude to turn them into a LinkedIn post.
 
 ## Example
@@ -31,6 +32,9 @@ Product managers, builders and job seekers who share their work on LinkedIn to n
 ## Files
 
 - `SKILL.md`: the skill itself
+- `examples/`: sample posts in the author's writing style, which the skill matches when drafting
+- `README.md`: this file
+- `LICENSE`: MIT
 
 ## License
 
