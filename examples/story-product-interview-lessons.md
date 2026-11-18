@@ -1,4 +1,4 @@
-Writing style sample. Around 5,000 impressions on LinkedIn.
+Story post. Around 5,000 impressions on LinkedIn.
 
 3 things I learnt from product interviews over the last month that might help you if you have one scheduled next week.
 

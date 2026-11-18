@@ -1,4 +1,4 @@
-Writing style sample. Around 40,000 impressions on LinkedIn.
+Story post. Around 40,000 impressions on LinkedIn.
 
 & Got rejected from a PM role today
 
