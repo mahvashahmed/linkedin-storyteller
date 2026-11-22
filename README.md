@@ -31,7 +31,7 @@ Product managers, builders and job seekers who share their work on LinkedIn to n
 |---|---|---|
 | `examples/story-product-interview-lessons.md` | Story | Around 5,000 impressions |
 | `examples/story-rejected-from-a-pm-role.md` | Story | Around 40,000 impressions |
-| `examples/announcement-announcing-the-skill.md` | Announcement | The post announcing this repo |
+| `examples/announcement-announcing-the-skill.md` | Announcement | The post announcing this repo (got 10k impressions)|
 
 ## Example
 
